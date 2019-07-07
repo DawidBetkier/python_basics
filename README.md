@@ -1,2 +1,2 @@
 # python_basics
-Pierwsze ćwiczenia w Pythonie
+Pierwsze proste ćwiczenia w Pythonie
