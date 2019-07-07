@@ -1,2 +1,2 @@
 # python_basics
-Pierwsze trudne ćwiczenia w Pythonie
+Pierwsze trudniejsze ćwiczenia w Pythonie
