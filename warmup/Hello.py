@@ -2,4 +2,5 @@
 
 if __name__ == '__main__':
 
-    print('hello world')
+    print('Human: Hello world')
+    print('World: Hello human!!!')
