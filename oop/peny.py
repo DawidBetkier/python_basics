@@ -1,6 +1,6 @@
 """Peny"""
 
-def wołanie (name):
+def pukpuk (name):
     for i in range(liczba):
         print(f'{name}!')
 
