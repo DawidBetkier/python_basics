@@ -13,5 +13,5 @@ def Collatz (number):
         return Collatz(number//2)
 
 if __name__ == '__main__':
-    num = int(input('Podaj liczbę początkową: '))
+    num = int(input('Podaj liczbę początkową:'))
     Collatz(num)
