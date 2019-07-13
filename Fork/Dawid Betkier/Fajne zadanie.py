@@ -1,7 +1,7 @@
 """Problem Collatza"""
 
 def Collatz (number):
-    """Policzenie problemu"""
+    """Policzenie problemu Collatza"""
 
     print(number)
 
